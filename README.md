@@ -1,5 +1,5 @@
 # Assignment_20150513
-# brance Develop에 과제가 업로드되어 있습니다
+# branch Develop에 과제가 업로드되어 있습니다
 '- 계층형 게시판에 대한 HTML/CSS 작성 2/2
 -계층형 게시판에 대한 테이블 SQL
 - 계층형 게시판 프로그램에서 사용할 SQL작성하기
